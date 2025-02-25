@@ -14,7 +14,7 @@ Follow the [./PREREQUISITES.md](./PREREQUISITES.md) instructions to configure a 
 
 * Make sure that the Github repository is forked under your account / Organization
 * Create a new Codespace from your forked repository
-* Wait for the Codespace to be up and running
+* Wait for the Codespace to be up and running  
 * Make sure that Docker service has been started
     * ```docker ps``` should return no error
 * For running all services in docker:
